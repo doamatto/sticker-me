@@ -1,0 +1,15 @@
+{
+  "name": "sticker-me",
+  "version": "0.1.0",
+  "main": "scrape.js",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "cheerio": "^1.0.0-rc.10"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.sr.ht:~doamatto/sticker-me"
+  },
+  "author": "Matt Ronchetto <npm@doamatto.xyz> (doamatto)",
+  "license": "UNLICENSE"
+}
