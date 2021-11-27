@@ -6,7 +6,8 @@ This is a simple experiment to experiment a bit further with Node.js.
 
 ## Building
 0. Install [Node](https://nodejs.org)
+1. Fetch dependencies (`npm install`)
 1. Run the utility (`node scrape.js https://store.line.me/stickershop/product/6740`)
 
 ## Acknowledgements
-This was developed with Node LTS 12.22.4.
+This was developed with Node LTS 16.13.0.
